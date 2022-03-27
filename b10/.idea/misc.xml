@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.1" />
+        <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/drawable/loading_shape.xml" value="0.1" />
+        <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/drawable/rating_background.xml" value="0.1" />
+        <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/activity_animal.xml" value="0.264" />
+        <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/activity_anime.xml" value="0.25" />
+        <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/activity_main.xml" value="0.21132075471698114" />
+        <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/animal_row_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

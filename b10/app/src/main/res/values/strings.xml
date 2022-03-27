@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">b10</string>
+    <string name="_0_0">0.0</string>
+    <string name="studio">Studio</string>
+    <string name="todo">TODO</string>
+    <string name="retype_passwrod">Retype Passwrod</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+</resources>
