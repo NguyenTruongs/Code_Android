@@ -1,4 +1,4 @@
-package com.example.b10;
+package com.example.b10.Adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -14,6 +14,9 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
+import com.example.b10.Animal;
+import com.example.b10.AnimalActivity;
+import com.example.b10.R;
 
 import java.util.List;
 

@@ -90,9 +90,9 @@
         android:layout_width="match_parent"
         android:layout_height="55dp"
         android:layout_marginTop="30dp"
-        android:backgroundTint="@color/purple_200"
+        android:backgroundTint="@color/hong"
         android:text="@string/register"
-        android:textColor="#311B92" />
+        android:textColor="@color/den" />
 
 
 

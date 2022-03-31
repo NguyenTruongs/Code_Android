@@ -1,9 +1,36 @@
 <resources>
-    <string name="app_name">b10</string>
-    <string name="_0_0">0.0</string>
-    <string name="studio">Studio</string>
-    <string name="todo">TODO</string>
-    <string name="retype_passwrod">Retype Passwrod</string>
+    <string name="menu">Menu</string>
+    <string name="home">Home</string>
+    <string name="user">User</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="gmail">Gmail</string>
+    <string name="map">Map</string>
+    <string name="shop">Shop</string>
+
+
+    <string name="about">About</string>
+    <string name="comment">Comment</string>
+    <string name="exception">Exception</string>
+    <string name="notification">Notification</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+    <string name="trues">True</string>
+    <string name="other">Other</string>
+    <string name="name">Name</string>
+
+
     <string name="register">Register</string>
+    <string name="retype_passwrod">Retype_passwrod</string>
     <string name="email">Email</string>
+
+
+    <string name="todo">Todo</string>
+    <string name="_0_0">_0_0</string>
+    <string name="studio">Studio</string>
+
+
+
+
 </resources>

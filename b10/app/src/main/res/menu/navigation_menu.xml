@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item android:title="@string/menu"-->
+<!--        android:icon="@drawable/menu"/>-->
+    <item android:title="@string/home"
+        android:icon="@drawable/home"/>
+    <item android:title="@string/user"
+        android:icon="@drawable/user"/>
+
+<!--    <item android:title="@string/facebook"-->
+<!--        android:icon="@drawable/facebook"/>-->
+<!--    <item android:title="@string/instagram"-->
+<!--        android:icon="@drawable/instagram"/>-->
+<!--    <item android:title="@string/twitter"-->
+<!--        android:icon="@drawable/twitter"/>-->
+<!--    <item android:title="@string/gmail"-->
+<!--        android:icon="@drawable/gmail"/>-->
+<!--    <item android:title="@string/map"-->
+<!--        android:icon="@drawable/map"/>-->
+    <item android:title="@string/shop"
+        android:icon="@drawable/shop"/>
+    <item android:icon="@drawable/notification"
+        android:title="@string/notification"/>
+
+
+    <item android:title="@string/other">
+        <menu>
+            <item android:icon="@drawable/about"
+                android:title="@string/about"/>
+
+            <item android:icon="@drawable/comment"
+                android:title="@string/comment"/>
+
+            <item android:icon="@drawable/setting"
+                android:title="@string/setting"/>
+
+            <item android:icon="@drawable/logout"
+                android:title="@string/logout"/>
+        </menu>
+    </item>
+
+</menu>

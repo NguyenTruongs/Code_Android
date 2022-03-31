@@ -11,11 +11,14 @@
         <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/activity_animal.xml" value="0.264" />
         <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/activity_anime.xml" value="0.25" />
         <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/activity_home2.xml" value="0.24909420289855072" />
         <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/activity_main.xml" value="0.21132075471698114" />
         <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/activity_main2.xml" value="0.25" />
         <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/activity_register.xml" value="0.25" />
         <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/animal_row_item.xml" value="0.25" />
+        <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/layout/layout_navigation_header.xml" value="0.25" />
+        <entry key="..\:/ANDROID_ALL/b10/app/src/main/res/menu/navigation_menu.xml" value="0.2" />
       </map>
     </option>
   </component>
